@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="statusText">Randomizer</string>
+    <string name="chargeSourceText">Randomizer</string>
+</resources>
